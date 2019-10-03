@@ -1,0 +1,35 @@
+/* Type */
+
+body {
+	background-color: slateblue;
+	font-family: serif;
+	line-height: 3em;
+	font-size: 3em;
+	text-shadow:3px 3px darkblue;
+	opacity: 1;
+	font-weight: bold;
+	padding-top: 55px;
+	padding-right: 35px;
+	padding-bottom: 45px;
+	padding-left: 70px;
+	transform: rotate(1.1deg);
+	text-align: center;
+}
+
+.new-color {
+	color: white;
+}
+.other-font {
+	font-family: serif;
+}
+.awful {
+	position: fixed;
+    top: 1.295em; 
+    text-transform: uppercase;
+    font-style: oblique;
+    opacity: 0.51;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif
+    font-stretch: expanded;
+    line-height: 1.5em 
+}
